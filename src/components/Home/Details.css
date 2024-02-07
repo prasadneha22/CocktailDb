@@ -1,0 +1,88 @@
+
+.details-conatiner{
+    margin-top: 30px;
+    font-family: monospace;
+    color: white;
+}
+.name-img h2{
+    font-size: 25px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+.name-img img{
+    width: 500px;
+    height: 500px;
+
+}
+.name-img{
+    margin-left: 10%;
+    
+}
+.main{
+    display: flex;
+    gap: 50px;
+   
+}
+.ingrediants{
+    display: flex;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+.measures img{
+    height: 120px;
+    width: 120px;
+    margin-right: 50px;
+}
+.measures p{
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.items h3{
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 30px;
+}
+.mes{
+    text-align: center;
+    margin-top: 48%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+.instructions{
+    width: 600px;
+    min-height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.instructions  h2{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.instructions p{
+    font-size: 16px;
+    font-weight: 200;
+}
+.glass h2{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.glass p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.glass{
+    margin: 40px 0;
+    text-align: center;
+}
